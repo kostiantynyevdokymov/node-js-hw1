@@ -1,0 +1,27 @@
+{
+  "name": "js-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostiantynyevdokymov/node-js-hw1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostiantynyevdokymov/node-js-hw1/issues"
+  },
+  "homepage": "https://github.com/kostiantynyevdokymov/node-js-hw1#readme",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "nanoid": "^4.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
